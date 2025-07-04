@@ -126,6 +126,7 @@ class Download:
     def __ready_download_video(
         self, urls: list[str], path: Path, name: str, log
     ) -> list:
+        return []
         if not self.video_download:
             logging(log, _("视频作品下载功能已关闭，跳过下载"))
             return []
