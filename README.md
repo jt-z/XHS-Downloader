@@ -1,3 +1,8 @@
+# Fork后做的工作： 对工具运行后的数据库中的结果进行CRUD并进行规则匹配分类
+
+数据库中的条目对笔记进行类别分类
+
+
 <div align="center">
 <img src="static/XHS-Downloader.png" alt="XHS-Downloader" height="256" width="256"><br>
 <h1>XHS-Downloader</h1>
